@@ -1,4 +1,4 @@
-package ae.prototype.vip.helpers.date_helpers;
+
 
 import android.support.annotation.Nullable;
 import android.util.Log;
