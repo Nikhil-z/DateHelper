@@ -11,17 +11,17 @@ Usage
 Date currentDate = new Date();
 DateHelper dateHelper = new DateHelper(currentDate)
 
-dateHelper.getDay() -- 13
-dateHelper.getMonthLongName() -- April
-dateHelper.getHour() -- 13:30
-dateHelper.getHourWithAMPM() -- 1:30 AM
+dateHelper.getDay() ------------------- 13
+dateHelper.getMonthLongName() ------ April
+dateHelper.getHour() --------------- 13:30
+dateHelper.getHourWithAMPM() ----- 1:30 AM
 dateHelper.getHourIn12HourFormat() -- 1:30
-dateHelepr.getDateAMPM() -- AM
-dateHelepr.getMonthShortName() -- Apr
-dateHelper.getDayOfTheWeek() -- Wednesday
-dateHelper.getDayOfWeekShortName() -- Wed
-dateHelper.getMonth() -- 04
-dateHelper.getYear() -- 1993
+dateHelepr.getDateAMPM() -------------- AM
+dateHelepr.getMonthShortName() ------- Apr
+dateHelper.getDayOfTheWeek() --- Wednesday
+dateHelper.getDayOfWeekShortName() --- Wed
+dateHelper.getMonth() ----------------- 04
+dateHelper.getYear() ---------------- 1993
 ```
 
 You can also add current time zone offset to your date, just adding this line 
