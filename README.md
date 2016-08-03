@@ -1,7 +1,7 @@
 # DateHelper
 
 Simple dateHelper, that can help you to make your life easy.
-Just give date to dateHelper and get it how you want
+Just give date to dateHelper and get in different format
 
 Usage
 --------
